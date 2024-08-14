@@ -36,6 +36,17 @@ This cmd trains with our proposed Unimix, if you'd like to trains with other met
 
 You can also customize the config in all the design dimensions 
 
+## Citation
+If you find UniMem useful for your research and applications, please cite using this BibTeX:
+
+```@article{fang2024unimem,
+  title={Unimem: Towards a unified view of long-context large language models},
+  author={Fang, Junjie and Tang, Likai and Bi, Hongzhe and Qin, Yujia and Sun, Si and Li, Zhenyu and Li, Haolun and Li, Yongjian and Cong, Xin and Yan, Yukun and others},
+  journal={arXiv preprint arXiv:2402.03009},
+  year={2024}
+}
+```
+
 ## License
 
 Code licensed under the Apache License v2.0
